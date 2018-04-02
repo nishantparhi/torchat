@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #Author: Nishant Parhi
-#Coded and Developed by: @nishantparhi
+#Coded And Developed by: @nishantparhi
 
 import socket
 import threading
