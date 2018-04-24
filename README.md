@@ -11,3 +11,5 @@ root@kali:~ python torchat.py
 
 #### Errors
 Sometimes there will be errors. Dont worry just try again untill it opens.
+
+Thank you.
